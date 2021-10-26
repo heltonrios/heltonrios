@@ -5,7 +5,7 @@ Welcome to my github, feel free to consult anything you want.
 - 🖥️ Working with Supply Chain, looking for change to Tech.
 - 👀 I’m interested in front-end stacks
 - 📕 Graduated in International Commerce
-- 🌱 I’m currently focusing in learn Javascript, ReactJs, Node.Js, Git.
+- 🌱 I’m currently focusing in learn Javascript, ReactJs, Node.Js and Git.
 - ⚡ Fun fact: I play voleyball and play eletric guitar, I'm not good at either.
 
 ### Stacks and tools:
