@@ -2,7 +2,7 @@
 Welcome to my github, feel free to consult anything you want.
 
 - 👋 Hi, I’m @heltonrios, I'm currently living in São Paulo, Brazil. 
-- 🖥️ Working with Supply Chain, looking for change to Tech.
+- 🖥️ Working with IT, SAP Systems.
 - 👀 I’m interested in front-end stacks
 - 📕 Graduated in International Commerce
 - 🌱 I’m currently focusing in learn Javascript, ReactJs, Node.Js and Git.
